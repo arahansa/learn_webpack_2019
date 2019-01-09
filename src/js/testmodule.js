@@ -1,5 +1,4 @@
 
-export default function test(){
-    console.log('testmoudule')
+export default function test () {
+  console.log('testmoudule')
 }
-
